@@ -1,0 +1,55 @@
+[
+    {
+        "property": "mod.lean.top-workspace",
+        "label": "隐藏顶部的 space 名称条（要改名时：右键底部当前 space 图标 →「更改名称」，改名时会出现）",
+        "type": "checkbox",
+        "defaultValue": true
+    },
+    {
+        "property": "mod.lean.bottom-buttons",
+        "label": "底部按钮区（含 space 图标）只在鼠标移到侧栏时显示",
+        "type": "checkbox",
+        "defaultValue": true
+    },
+    {
+        "property": "mod.lean.hide-pinned-separator",
+        "label": "隐藏固定标签和普通标签之间的分隔线和「清除」按钮",
+        "type": "checkbox",
+        "defaultValue": true
+    },
+    {
+        "property": "mod.lean.bookmarks",
+        "label": "书签栏只在鼠标移到顶部导航栏时显示（多工具栏 / 折叠工具栏模式）",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.lean.hide-zoom",
+        "label": "隐藏地址栏里的缩放按钮",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.lean.show-translation",
+        "label": "单工具栏模式：鼠标移到地址栏时显示翻译按钮",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.lean.show-pageactions",
+        "label": "单工具栏模式：鼠标移到地址栏时显示扩展的页面按钮",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.lean.ninja-top-buttons",
+        "label": "单工具栏模式：顶部按钮区隐身，只留 1px 高，鼠标移到地址栏上方仍能点到（可配合 Gesturefy 扩展）",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.lean.pinned-ext",
+        "label": "单工具栏模式：把底部按钮区挪到地址栏下方，当「固定扩展栏」用（实验功能）",
+        "type": "checkbox"
+    },
+    {
+        "property": "mod.lean.pinned-ext.workspaces",
+        "label": "开了「固定扩展栏」后，仍然显示 space 按钮",
+        "type": "checkbox"
+    }
+]

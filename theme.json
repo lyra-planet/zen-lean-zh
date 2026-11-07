@@ -1,0 +1,12 @@
+{
+    "id": "3e384c94-669f-4f78-8640-74e323ba29d2",
+    "name": "Lean 中文版",
+    "description": "space 名称条、底部按钮、分隔线和「清除」按钮，用到时才显示。改编自 KiKaraage 的 Lean 3.1",
+    "homepage": "",
+    "author": "KiKaraage",
+    "version": "3.1.1",
+    "preferences": true,
+    "tags": [],
+    "createdAt": "2026-11-08",
+    "updatedAt": "2026-11-08"
+}
