@@ -18,6 +18,18 @@
         "defaultValue": true
     },
     {
+        "property": "mod.lean.plus-new-tab",
+        "label": "右下角的 + 直接新建标签页，不再弹菜单（先在「定制工具栏」里把「新建标签页」按钮拖进侧栏底部）",
+        "type": "checkbox",
+        "defaultValue": true
+    },
+    {
+        "property": "mod.lean.hide-newtab-row",
+        "label": "隐藏标签列表顶部那行「新建标签页」",
+        "type": "checkbox",
+        "defaultValue": true
+    },
+    {
         "property": "mod.lean.bookmarks",
         "label": "书签栏只在鼠标移到顶部导航栏时显示（多工具栏 / 折叠工具栏模式）",
         "type": "checkbox"
